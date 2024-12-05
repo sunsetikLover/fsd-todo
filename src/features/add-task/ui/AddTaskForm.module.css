@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+.textField {
+  flex-grow: 1;
+  height: 40px;
+}
+
+.button {
+  height: 40px;
+  min-width: 100px;
+  padding: 0;
+}
